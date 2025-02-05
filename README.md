@@ -5,6 +5,6 @@ yumuşak bir geçiş yapılabilmektedir.
 
 ## Kullanılan Araçlar ve Kütüphaneler
 - Bootstrap
-- Entity Framework
+- .Net Framework
 - SQL
   
