@@ -1,9 +1,0 @@
-MVC İLE ADMİN PANELLİ DİNAMİK WEB SİTESİ
-
-- Controller işin backend kısmı.
-- Controller de kodların yazıldığı sayfa da komuta sağ tıklayıp, View oluşturuyoruz. Örneğin;
-HomeController.cs sayfasında;
-   public ActionResult Test()
-{
-              return View();
-}  dedikten sonra Test metoduna sağ tıklayıp Add,View deyip View ekliyoruz. Layout kullan deyip, Shared klasöründeki _AdminLayoutu ekliyoruz.
